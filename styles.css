@@ -1,0 +1,40 @@
+body {
+  color: #82a5ca;
+  background-size: 200px;
+  text-align: center;
+  background-size: cover;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  margin: 0;
+}
+
+.header {
+  background-image: url("images/space.webp");
+  padding-bottom: 50px;
+  background-size: cover;
+}
+
+#title {
+  text-shadow: 0 0 4px black;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 600;
+  color: #82a5ca;
+  font-weight: 800;
+  background: white;
+}
+
+#logo {
+  width: 200px;
+}
+
+.terms {
+  font-weight: 800;
+}
